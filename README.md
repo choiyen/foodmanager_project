@@ -19,7 +19,7 @@
 | 디자인 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 |런타임|<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">|
 |언어| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)|
-|라이브러리|<img src="https://img.shields.io/badge/EJS-E34F26?style=for-the-badge&logo=EJS&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> |
+|라이브러리|<img src="https://img.shields.io/badge/react-E34F26?style=for-the-badge&logo=react&logoColor=pink"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> |
 |패키지|<img src="https://img.shields.io/badge/npm-3776AB?style=for-the-badge&logo=npm&logoColor=white">|
 |협업툴|<img src="https://img.shields.io/badge/SLACK-0000F0?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/NOTION-0EA0F0?style=for-the-badge&logo=notion&logoColor=white">|
 |IDE| <img src="https://img.shields.io/badge/VSCODE-AEA0F0?style=for-the-badge&logo=vscode&logoColor=white">|
