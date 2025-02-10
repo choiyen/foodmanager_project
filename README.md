@@ -23,6 +23,7 @@
 |패키지|<img src="https://img.shields.io/badge/npm-3776AB?style=for-the-badge&logo=npm&logoColor=white">|
 |협업툴|<img src="https://img.shields.io/badge/SLACK-0000F0?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/NOTION-0EA0F0?style=for-the-badge&logo=notion&logoColor=white">|
 |IDE| <img src="https://img.shields.io/badge/VSCODE-AEA0F0?style=for-the-badge&logo=vscode&logoColor=white">|
+|DB| <img src="https://img.shields.io/badge/mysql-E34F26?style=for-the-badge&logo=mysql&logoColor=white">|
 
 ## 4. 프로젝트 구조
 ```
