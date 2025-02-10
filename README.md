@@ -1,4 +1,4 @@
-#  ![image](https://github.com/user-attachments/assets/43dd4ca2-1ba6-46c2-9ce4-8465109c4383) 한끼출근
+# 한끼출근
 ![image](https://github.com/user-attachments/assets/f59834cf-8ef5-4c9a-a595-4e7b91a82f67)
 
 ## 1. 주제 선정 이유
