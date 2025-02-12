@@ -97,7 +97,7 @@ frontend
 ```
 ### **Node js의 싱글 쓰레드 방식**
 
-<img src="https://github.com/user-attachments/assets/365610e7-bb71-43c2-a1ac-43d801625427" width="20%" height="30%">
+<img src="https://github.com/user-attachments/assets/365610e7-bb71-43c2-a1ac-43d801625427" width="40%" height="50%">
 
 ```
 - 찜목록을 설계하는 과정에서 레시피 데이터를 불러온 다음, 불러온 데이터 별로 찜이 되어 있는지 확인하는 방식으로 처리했었는데, 찜목록을 가져오는 과정에서 무한대기가 발생해서 Open API를 사용해 레시피를 가져오는 함수가 동작하지 않은 문제가 있었다.
