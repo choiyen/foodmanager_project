@@ -26,6 +26,35 @@
 
 ## 4. 프로젝트 구조
 ```
+backend
+├─config
+├─controllers
+├─models
+│  ├─FoodLog
+│  ├─Grocery
+│  ├─Posting
+│  └─Recipe
+├─routes
+├─uploads
+└─utils
+
+frontend
++---build
++---node_modules
++---public
+├─ingredients
+└─menu
++---src
+├─components
+│  ├─atoms
+│  ├─molecules
+│  ├─organisms
+│  ├─pages
+│  ├─templates
+│  └─ui
+├─store
+└─styles
+
 ```
 
 ## 5. 개발 기간 및 작업 관리
@@ -42,6 +71,7 @@
 |**총 개발 기간**|10/30(수)~11/13(수)|   |    |
 
 ## 6. 페이지별 기능
+
 1. 로그인 화면
 
 2. 회원가입 기능
@@ -59,11 +89,21 @@
 
 ## 7. 트러블 슈팅 및 어려웠던 점
 
+```
+
+```
 
 ## 8. 개선 목표
-
+```
+배포 : 이번 프로젝트를 할 적에 프로젝트 기간에 쫒겨 프로젝트 배포까지 완수하지 못했다.
+데이터 관리 : 프론트엔드에서 데이터를 관리할 적에 props를 사용해서 넘겨주는 방식을 썼었는데, 다음번엔 redux, zustand, Recoil과 같은 상태 관리 라이브러리를 써볼 계획이다.
+Oauth2 : 카카오나 네이버의 로그인 API를 활용해서 회원가입 수단을 늘릴 계획이다.
+코드 재활용 : 공통으로 사용하는 메서드 등을 따로 빼내어 간결하게 만들어볼 계획이다.
+```
 
 ## 9. 채택한 기술에 대한 감사
-
-
+**React**
+````
+컴포넌트 단위로 
+````
 
