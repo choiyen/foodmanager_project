@@ -1,0 +1,33 @@
+/* 폰트 설정 */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+@import url("https://cdn.jsdelivr.net/gh/fonts-archive/Recipekorea/Recipekorea.css");
+html,
+body {
+  font-family: "Noto Sans KR", sans-serif; /* serif 대신 sans-serif로 교체 (Noto Sans는 산세리프) */
+  font-weight: 400; /* 기본 폰트 가중치 */
+  line-height: 1.5; /* 가독성을 위한 줄 간격 */
+  color: #333; /* 기본 텍스트 색상 설정 */
+  margin: 0;
+  padding: 0;
+}
+* {
+  font-family: inherit; /* 자식 요소가 부모의 폰트를 따르도록 설정 */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700; /* 헤딩은 기본적으로 두껍게 설정 */
+}
+
+p,
+a,
+span,
+li,
+input,
+button {
+  font-weight: 400; /* 일반 텍스트는 보통 굵기로 설정 */
+}
