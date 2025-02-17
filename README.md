@@ -79,23 +79,39 @@ frontend
 |**배포**|12/24(금)|배포 시도하기|  |
 |**총 개발 기간**|10/30(수)~11/13(수)|   |    |
 
-## 6. 페이지별 기능(현재 미완)
+## 6. 페이지별 기능
 
 1. 로그인 화면
+
+
 
 ![로그인](https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c)
 
 
-3. 회원가입 기능
+2. 회원가입 기능
+
+
 
 ![회원가입](https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382)
 
 
-5. 냉장고 재료- 등록/수정
+3. 오늘의 추천
+
+
+
+![오늘의-추천-api](https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44)
+
+
+4. 냉장고 재료- 등록/수정
+
+
    
 ![재료-등록](https://github.com/user-attachments/assets/55462f36-4f91-4df0-b2fe-df416ea6f17d)
 
-6. 레시피 등록/수정
+
+5. 레시피 등록/수정
+
+
 
 ![레시피 등록](https://github.com/user-attachments/assets/ee7354c5-759a-4ec4-81bf-73c5ae13ea2f)
 
@@ -105,10 +121,13 @@ frontend
 
 6. 게시판 등록/수정
 
+
+
 ![게시물 등록](https://github.com/user-attachments/assets/9013eeab-ae1f-4074-aa72-aef71e370d5a)
 
 
 7. 먹은 음식 기록 기능
+
 
 
 ![음식기록](https://github.com/user-attachments/assets/f8657236-53f0-40fa-9c66-0fdf81d56c1e)
@@ -117,15 +136,15 @@ frontend
 ![음식기록2](https://github.com/user-attachments/assets/2da33fee-773f-4ff7-96f6-3591bd7a5e30)
 
 
-9. 댓글 창 / 찜목록
+8. 댓글 창 / 찜목록
+
+
 
 ![댓글 등록](https://github.com/user-attachments/assets/aa6b9ee3-16ce-4d62-a001-d7cff41be508)
    
 ![찜목록](https://github.com/user-attachments/assets/4a83ff73-4362-4c8e-b9bc-562cd1370737)
 
-11. 오늘의 추천
 
-![오늘의-추천-api](https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44)
 
 
 ## 7. 트러블 슈팅 및 어려웠던 점
