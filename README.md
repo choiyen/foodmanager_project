@@ -111,12 +111,7 @@ frontend
 
 5. 레시피 등록/수정
 
-
-
-![레시피 등록](https://github.com/user-attachments/assets/ee7354c5-759a-4ec4-81bf-73c5ae13ea2f)
-
-
-![레시피 등록2](https://github.com/user-attachments/assets/e31dd01d-bdaf-4ea1-8f75-5375bed12ef2)
+![레시피 등록](https://github.com/user-attachments/assets/ee7354c5-759a-4ec4-81bf-73c5ae13ea2f) ![레시피 등록2](https://github.com/user-attachments/assets/e31dd01d-bdaf-4ea1-8f75-5375bed12ef2)
 
 
 6. 게시판 등록/수정
