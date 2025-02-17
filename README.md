@@ -107,11 +107,27 @@ frontend
 ![게시물 등록](https://github.com/user-attachments/assets/9013eeab-ae1f-4074-aa72-aef71e370d5a)
 
 
+7. 먹은 음식 기록 기능
 
-8. 댓글 창
+![음식기록](https://github.com/user-attachments/assets/f8657236-53f0-40fa-9c66-0fdf81d56c1e)
 
-9. 찜목록
+
+![음식기록2](https://github.com/user-attachments/assets/2da33fee-773f-4ff7-96f6-3591bd7a5e30)
+
+
+9. 댓글 창
+
+10. 찜목록
    
+![찜목록](https://github.com/user-attachments/assets/4a83ff73-4362-4c8e-b9bc-562cd1370737)
+
+11. 오늘의 추천
+
+![오늘의-추천-api](https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44)
+
+
+12.
+
 
 ## 7. 트러블 슈팅 및 어려웠던 점
 
