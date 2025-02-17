@@ -85,12 +85,12 @@ frontend
 
 <img src="https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c" width="600" height= "500">
 
-<img src="https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382" width="600">
+<img src="https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382" width="600" height= "500">
 
 
 3. 오늘의 추천
 
-<img src="https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44" width="600">
+<img src="https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44" width="600" height= "500">
 
 
 
