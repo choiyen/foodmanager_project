@@ -82,18 +82,30 @@ frontend
 ## 6. 페이지별 기능(현재 미완)
 
 1. 로그인 화면
+![로그인](https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c)
+
 
 2. 회원가입 기능
+![회원가입](https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382)
+
 
 3. 냉장고 재료- 등록/수정
-   
+   ![재료-등록](https://github.com/user-attachments/assets/55462f36-4f91-4df0-b2fe-df416ea6f17d)
+
 4. 레시피 등록/수정
+![레시피 등록](https://github.com/user-attachments/assets/ee7354c5-759a-4ec4-81bf-73c5ae13ea2f)
 
-5. 게시판 등록/수정
+![레시피 등록2](https://github.com/user-attachments/assets/e31dd01d-bdaf-4ea1-8f75-5375bed12ef2)
 
-6. 댓글 창
 
-7. 찜목록
+6. 게시판 등록/수정
+![게시물 등록](https://github.com/user-attachments/assets/9013eeab-ae1f-4074-aa72-aef71e370d5a)
+
+
+
+7. 댓글 창
+
+8. 찜목록
    
 
 ## 7. 트러블 슈팅 및 어려웠던 점
