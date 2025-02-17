@@ -83,20 +83,15 @@ frontend
 
 1. 로그인/ 회원가입
 
-![회원가입](https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382)
-
-
 <img src="https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c" width="600">
 
 <img src="https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382" width="600">
 
 
-
-
 3. 오늘의 추천
 
+<img src="https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44" width="600">
 
-![오늘의-추천-api](https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44)
 
 
 4. 냉장고/ 게시물 등록
