@@ -81,13 +81,9 @@ frontend
 
 ## 6. 페이지별 기능
 
-### 1. 로그인
+### 1. 로그인/회원가입
 
-<img src="https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c" width="800" height= "500">
-
-### 2. 회원가입
-
-<img src="https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382" width="800" height= "500">
+<img src="https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c" width="400" height= "500"> <img src="https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382" width="400" height= "500">
 
 
 ### 3. 오늘의 추천
