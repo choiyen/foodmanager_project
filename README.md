@@ -115,9 +115,10 @@ frontend
 ![음식기록2](https://github.com/user-attachments/assets/2da33fee-773f-4ff7-96f6-3591bd7a5e30)
 
 
-9. 댓글 창
+9. 댓글 창 / 찜목록
 
-10. 찜목록
+![댓글 등록](https://github.com/user-attachments/assets/aa6b9ee3-16ce-4d62-a001-d7cff41be508)
+
    
 ![찜목록](https://github.com/user-attachments/assets/4a83ff73-4362-4c8e-b9bc-562cd1370737)
 
@@ -125,8 +126,6 @@ frontend
 
 ![오늘의-추천-api](https://github.com/user-attachments/assets/1db1a186-5911-4b74-bd0f-bff83afa3d44)
 
-
-12.
 
 
 ## 7. 트러블 슈팅 및 어려웠던 점
