@@ -83,7 +83,7 @@ frontend
 
 1. 로그인/ 회원가입
 
-<img src="https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c" width="600">
+<img src="https://github.com/user-attachments/assets/b4921326-d53f-4d4b-acff-c12472d6598c" width="600" height= "500">
 
 <img src="https://github.com/user-attachments/assets/e8a97b80-0fbb-44c9-9caf-9b2e47f03382" width="600">
 
