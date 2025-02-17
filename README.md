@@ -90,7 +90,7 @@ frontend
 
 
 3. 냉장고 재료- 등록/수정
-4. 
+   
    ![재료-등록](https://github.com/user-attachments/assets/55462f36-4f91-4df0-b2fe-df416ea6f17d)
 
 5. 레시피 등록/수정
